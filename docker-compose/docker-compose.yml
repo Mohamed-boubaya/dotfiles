@@ -1,0 +1,15 @@
+version: '3'
+services:
+    php:
+        build: ../docker/php
+        ports: 
+            - "8000:8000"
+        volumes: 
+            - .:/user/src/myapp
+        network_mode: "host"
+
+    node-backend:
+        build: ../docker/node
+            image: node-backend
+            ports:
+                - "3000:8080"
