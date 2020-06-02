@@ -1,0 +1,38 @@
+// Variables
+$color: #000;
+
+:root {
+  --secondary-color: #FFEB3B;
+  --font-color: #333333;
+  --bg-color: #fafafa;
+  --link: #000000;
+}
+
+* {
+  font-family: Arial, sans-serif !important;
+}
+
+// Outils
+@import "tools/reset";
+@import "tools/functions";
+@import "tools/mixins";
+
+// Generic
+body {
+  font-size: 16px;
+  color: var(--font-color) !important;
+  background-color: var(--bg-color) !important;
+}
+// Modules
+// @import "modules/typography";
+
+@include down(575) {
+  html {
+    font-size: 85%;
+  }
+}
+
+
+// Pages
+//@import "pages/home";
+//@import "pages/blog";

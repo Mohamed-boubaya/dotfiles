@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "CommonJS",
+      "skipLibCheck": true
+    },
+    "include": [
+      "."
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
