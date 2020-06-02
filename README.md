@@ -1,0 +1,14 @@
+# Boilerplate
+
+This repository contains my configuration that i used for some project + help me to start coding quickly
+
+<p align="center">
+  <img alt="svelte-mindmap" src="url" />
+</p>
+
+:book: Tools
+------------------
+- [ZSH](https://gist.github.com/kevin-smets/8568070)
+- [hyper.is for Windows](https://medium.com/@ssharizal/hyper-js-oh-my-zsh-as-ubuntu-on-windows-wsl-terminal-8bf577cdbd97s)
+- [SVGSprite](https://svgsprit.es/)
+- [Transfonter](https://transfonter.org/)

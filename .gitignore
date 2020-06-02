@@ -1,0 +1,5 @@
+*/.vscode/launch.json
+player-frontend/nginx/ssl
+.idea
+
+!/.ci/
