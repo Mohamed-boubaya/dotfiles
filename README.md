@@ -1,9 +1,9 @@
-# Boilerplate
+# Dotfiles
 
 This repository contains my configuration that i used for some project + help me to start coding quickly
 
 <p align="center">
-  <img alt="svelte-mindmap" src="url" />
+  <img alt="svelte-mindmap" src="https://github.com/Mohamed-boubaya/dotfiles/blob/master/apercu.jpg" />
 </p>
 
 :book: Tools
