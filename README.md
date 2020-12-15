@@ -12,3 +12,4 @@ This repository contains my configuration that i used for some project + help me
 - [hyper.is for Windows](https://medium.com/@ssharizal/hyper-js-oh-my-zsh-as-ubuntu-on-windows-wsl-terminal-8bf577cdbd97s)
 - [SVGSprite](https://svgsprit.es/)
 - [Transfonter](https://transfonter.org/)
+- [Grabient](https://www.grabient.com/) for css color
